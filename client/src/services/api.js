@@ -1,4 +1,4 @@
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8001/api';
+const API_BASE_URL = 'https://finalbackend-2-k08r.onrender.com/api';
 
 class ApiService {
   constructor() {
